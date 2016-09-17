@@ -1,0 +1,17 @@
+#hat {
+	margin-top:0px;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: gray;
+	}
+	.lefthelp {
+	float: left;
+	margin-right: 0px 2px 0px 0px;
+	}
+	.righthelp {
+	float: right;
+	margin-left: 0px 0px 0px 2px;
+	}
+	.fine {
+	font-size: 5pt;
+	}
